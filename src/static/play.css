@@ -1,0 +1,30 @@
+/* Reset default margin and padding */
+
+  
+  /* Style the contact card */
+  .contact-card {
+    background-color: #000000;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .contact-card img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .contact-card h1 {
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  .contact-card p {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
