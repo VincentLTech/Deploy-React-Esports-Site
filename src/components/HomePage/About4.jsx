@@ -5,7 +5,7 @@ const About3 = () => {
         <section class="about" id="about">
             <div class="containe2">
                 <div class="about-content">
-                    <a href="https://discord.gg/rKMTVrcW">
+                    <a href="https://discord.gg/9WbP66DDJC">
 
                         <figure class="about-banner">
                             <img src={Discord} alt="profile-img" class="about-img" />
