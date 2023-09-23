@@ -22,7 +22,7 @@ const NavBar = () => {
                                 <HashLink smooth to='/#contact' class="navbar-link" href="#">Contact</HashLink>
                             </li>
                             <li>
-                                <a href="https://discord.gg/rKMTVrcW" class="navbar-link">Discord</a>
+                                <a href="https://discord.gg/9WbP66DDJC" class="navbar-link">Discord</a>
                             </li>
 
                         </ul>
