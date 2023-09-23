@@ -12,7 +12,7 @@ const Introduction = () => {
         <section class="team contact" id="contact">
         <div class="container">
           <h2 class="h2 section-title">Thank you</h2>
-            <h4>To my amazing Eboard team, I appreciate your hard work completing 
+            <h4>To the first ever Eboard team, I appreciate your hard work completing 
               and organizing all of our most fruitful and lifechanging projects and 
               events. Before I came to the club, I was alone. I had no one to share 
               my hobbies or my goals with. But you guys accepted me and together we 
