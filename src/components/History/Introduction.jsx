@@ -2,11 +2,11 @@ import React from 'react';
 // import {Link} from 'react-router-dom';
 // import {HashLink} from 'react-router-hash-link';
 // const profile = require('../images/profile.jpg')
-const profile1 = require('../../images/team-member-13.png');
-const profile2 = require('../../images/team-member-1.png');
-const profile3 = require('../../images/team-member-14.png');
-const profile4 = require('../../images/team-member-2.png');
-const profile5 = require('../../images/team-member-6.png');
+const profile1 = require('../../images/team-member-3.png');
+const profile2 = require('../../images/team-member-11.png');
+const profile3 = require('../../images/team-member-4.png');
+const profile4 = require('../../images/team-member-12.png');
+const profile5 = require('../../images/team-member-10.png');
 const Introduction = () => {
     return (
         <section class="team contact" id="contact">

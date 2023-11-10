@@ -1,8 +1,7 @@
 import React from 'react';
-const profile1 = require('../../images/team-member-11.png');
-const profile2 = require('../../images/team-member-12.png');
-const profile3 = require('../../images/team-member-13.png');
-const profile4 = require('../../images/team-member-14.png');
+const profile1 = require('../../images/team-member-1.png');
+const profile2 = require('../../images/team-member-2.png');
+const profile4 = require('../../images/team-member-4.png');
 const Contact = () => {
     return (
         <section class="team contact" id="contact">
@@ -22,14 +21,6 @@ const Contact = () => {
                     <figure>
                         <img src={profile2} alt="profile-img" class="team-crop"/>
                         <center>Sasha</center>
-                    </figure>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="team-member">
-                    <figure>
-                        <img src={profile3} alt="profile-img" class="team-crop"/>
-                        <center>Alexander</center>
                     </figure>
                 </a>
               </li>

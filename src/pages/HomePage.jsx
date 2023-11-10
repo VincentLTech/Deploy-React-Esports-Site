@@ -10,6 +10,7 @@ import Contact from '../components/HomePage/Contact';
 import Contact2 from '../components/HomePage/Contact2';
 import Footer from '../components/shared/Footer';
 import Mission from '../components/HomePage/Mission';
+import Director from '../components/HomePage/Director';
 import '../App.css';
 
 const HomePage = () => {
@@ -40,6 +41,7 @@ const HomePage = () => {
                 <br/>
                 <br/>
                 </div>
+                <Director/>
                 <Contact/>
                 <Contact2/>
                 <Footer/>
