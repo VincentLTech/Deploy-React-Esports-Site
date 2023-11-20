@@ -35,12 +35,12 @@ const Xander = () => {
           <br/>
           <h2 class="h2 section-title">Contacts</h2>
           <ul class="team-list">
-            <div class="contact-card">
-              <center><img src={profile4} alt="profile-img" class="team-crop"/></center>
-              <h1>John</h1>
-              <p>Role: Treasurer</p>
-              <p>Email: johnfjp99@gmail.com</p>
-              {/* <p>Phone: (123) 456-7890</p> */}
+          <div class="contact-card">
+              <center><img src={profile3} alt="profile-img" class="team-crop"/></center>
+              <h1>Alexander</h1>
+              <p>Role: Director</p>
+              <p>Email: Orzaidus@gmail.com</p>
+              <p>Phone: (917) 744-5995</p>
             </div>
             <div class="contact-card">
             <center><img src={profile2} alt="profile-img" class="team-crop"/></center>
@@ -50,19 +50,27 @@ const Xander = () => {
               <p>Phone: (845) 707-5782</p>
             </div>
             <div class="contact-card">
-              <center><img src={profile3} alt="profile-img" class="team-crop"/></center>
-              <h1>Alexander</h1>
-              <p>Role: Treasurer</p>
-              <p>Email: Orzaidus@gmail.com</p>
-              <p>Phone: (917) 744-5995</p>
-            </div>
-            <div class="contact-card">
               <center><img src={profile1} alt="profile-img" class="team-crop"/></center>
               <h1>Soletia</h1>
               <p>Role: Vice President</p>
               <p>Email: Soletia00@gmail.com</p>
               <p>Phone: (347) 962-5443</p>
             </div>
+            <div class="contact-card">
+              <center><img src={profile4} alt="profile-img" class="team-crop"/></center>
+              <h1>John</h1>
+              <p>Role: Treasurer</p>
+              <p>Email: johnfjp99@gmail.com</p>
+              {/* <p>Phone: (123) 456-7890</p> */}
+            </div>
+            <div class="contact-card">
+                <center><img src={profile11} alt="profile-img" class="team-crop"/></center>
+                <h1>Vincent</h1>
+                <p>Role: Alumni Advisor</p>
+                <p>Email: electricplasma411@gmail.com</p>
+                <p>Phone: (917) 370-6277</p>
+              </div>
+            
             
           </ul>
           {/* <h2 class="h2 section-title">Student E-board Members</h2> */}
@@ -81,14 +89,6 @@ const Xander = () => {
                 <p>Role: Secretary</p>
                 <p>Email: juan25.jt1@gmail.com</p>
                 <p>Phone: (347) 303-0660</p>
-              </div>
-              <div class="contact-card">
-                <center><img src={profile11} alt="profile-img" class="team-crop"/></center>
-                <h1>Vincent</h1>
-                <p>Role: Alumni Advisor</p>
-                <p>Email: electricplasma411@gmail.com</p>
-                <p>Phone: (917) 370-6277</p>
-                
               </div>
               <div class="contact-card">
                 <center><img src={profile14} alt="profile-img" class="team-crop"/></center>
