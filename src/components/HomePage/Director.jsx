@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
 import {HashLink} from 'react-router-hash-link';
-const profile3 = require('../../images/team-member-3.png');
+const Xander = require('../../images/Xander.png');
 const Director = () => {
     return (
         <section class="team" id="team">
@@ -11,7 +11,7 @@ const Director = () => {
             <li>
                 <a href="#" class="team-member">
                     <figure>
-                        <img src={profile3} alt="profile-img" class="team-crop"/>
+                        <img src={Xander} alt="profile-img" class="team-crop"/>
                         <center>Alexander</center>
                     </figure>
                 </a>

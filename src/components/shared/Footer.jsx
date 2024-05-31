@@ -15,7 +15,7 @@ const Footer = () => {
                     <div class="footer-brand-wrapper">
                         <div class="footer-menu-wrapper">
                             <ul class="footer-menu-list">
-                                <li>
+                                {/* <li>
                                     <a href="#hero" class="footer-menu-link">Home</a>
                                 </li>
                                 <li>
@@ -23,7 +23,7 @@ const Footer = () => {
                                 </li>
                                 <li>
                                     <a href="#" class="footer-menu-link">Contact</a>
-                                </li>
+                                </li> */}
                                 <li>
                                     <HashLink smooth to='/history' class="footer-menu-link">Special Thanks</HashLink>
                                     {/* <a href="" class="footer-menu-link">Special Thanks</a> */}

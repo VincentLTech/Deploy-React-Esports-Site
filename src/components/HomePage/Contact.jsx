@@ -1,7 +1,7 @@
 import React from 'react';
-const profile1 = require('../../images/team-member-1.png');
-const profile2 = require('../../images/team-member-2.png');
-const profile4 = require('../../images/team-member-4.png');
+const Moustafa = require('../../images/Moustafa.png');
+const Eli = require('../../images/Eli.png');
+const notJohn = require('../../images/notJohn.png');
 const Contact = () => {
     return (
         <section class="team contact" id="contact">
@@ -11,23 +11,23 @@ const Contact = () => {
               <li>
                 <a href="#" class="team-member">
                     <figure>
-                        <img src={profile1} alt="profile-img" class="team-crop"/>
-                        <center>Soletia</center>
+                        <img src={Eli} alt="profile-img" class="team-crop"/>
+                        <center>Eli</center>
                     </figure>
                 </a>
               </li>
               <li>
                 <a href="#" class="team-member">
                     <figure>
-                        <img src={profile2} alt="profile-img" class="team-crop"/>
-                        <center>Sasha</center>
+                        <img src={Moustafa} alt="profile-img" class="team-crop"/>
+                        <center>Moustafa</center>
                     </figure>
                 </a>
               </li>
               <li>
                 <a href="#" class="team-member">
                     <figure>
-                        <img src={profile4} alt="profile-img" class="team-crop"/>
+                        <img src={notJohn} alt="profile-img" class="team-crop"/>
                         <center>John</center>
                     </figure>
                 </a>

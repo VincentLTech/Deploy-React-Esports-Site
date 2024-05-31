@@ -2,11 +2,11 @@ import React from 'react';
 // import {Link} from 'react-router-dom';
 // import {HashLink} from 'react-router-hash-link';
 // const profile = require('../images/profile.jpg')
-const profile1 = require('../../images/team-member-3.png');
-const profile2 = require('../../images/team-member-11.png');
-const profile3 = require('../../images/team-member-4.png');
-const profile4 = require('../../images/team-member-12.png');
-const profile5 = require('../../images/team-member-10.png');
+const Xander = require('../../images/Xander.png');
+const Vincent = require('../../images/Vincent.png');
+const Eli = require('../../images/Eli.png');
+const notJohn = require('../../images/notJohn.png');
+const Eric = require('../../images/Eric.png');
 const Introduction = () => {
     return (
         <section class="team contact" id="contact">
@@ -28,7 +28,7 @@ const Introduction = () => {
             <li>
               <a href="#" class="team-member">
                   <figure>
-                      <img src={profile1} alt="profile-img" class="team-crop"/>
+                      <img src={Xander} alt="profile-img" class="team-crop"/>
                       <center><b>President:  Xander</b></center>
                   </figure>
               </a>
@@ -37,7 +37,7 @@ const Introduction = () => {
             <li>
               <a href="#" class="team-member">
                   <figure>
-                      <img src={profile2} alt="profile-img" class="team-crop"/>
+                      <img src={Vincent} alt="profile-img" class="team-crop"/>
                       <center><b>Vice President:  Vincent</b></center>
                   </figure>
               </a>
@@ -46,7 +46,7 @@ const Introduction = () => {
             <li>
               <a href="#" class="team-member">
                   <figure>
-                      <img src={profile3} alt="profile-img" class="team-crop"/>
+                      <img src={notJohn} alt="profile-img" class="team-crop"/>
                       <center><b>Treasurer:  John</b></center>
                   </figure>
               </a>
@@ -55,7 +55,7 @@ const Introduction = () => {
             <li>
               <a href="#" class="team-member">
                   <figure>
-                      <img src={profile4} alt="profile-img" class="team-crop"/>
+                      <img src={Eli} alt="profile-img" class="team-crop"/>
                       <center><b>Event Coordinator:  Eli</b></center>
                   </figure>
               </a>
@@ -64,7 +64,7 @@ const Introduction = () => {
             <li>
               <a href="#" class="team-member">
                   <figure>
-                      <img src={profile5} alt="profile-img" class="team-crop"/>
+                      <img src={Eric} alt="profile-img" class="team-crop"/>
                       <center><b>Esports Manager:  Eric</b></center>
                   </figure>
               </a>

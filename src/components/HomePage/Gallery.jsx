@@ -9,6 +9,7 @@ const Gallery = () => {
         <section class="gallery">
           <div class="container">
             <ul class="gallery-list has-scrollbar">
+
               <li>
                 <figure class="gallery-item">
                     <img src={image1} alt="profile-img" />
@@ -42,6 +43,4 @@ const Gallery = () => {
 
 export default Gallery;
   
-        
-        
-        
+ 
